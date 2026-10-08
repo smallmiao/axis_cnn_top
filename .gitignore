@@ -1,0 +1,5 @@
+# ModelSim 编译库与波形（生成物）
+work/
+*.wlf
+wlftr*
+transcript
